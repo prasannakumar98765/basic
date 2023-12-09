@@ -1,3 +1,4 @@
 sample text file
 
-this file can be used for project description
+
+ok this is a sample file
